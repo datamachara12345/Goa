@@ -1,0 +1,5 @@
+name = input("ჩაწერე შენი სახელი: ")
+print(name)
+age = int(input("ჩაწერე შენი ასაკი: "))
+print(age)
+print("გამარჯობა, " + name + "! "+ "შენ ხარ " + str(age) + " წლის")
