@@ -1,0 +1,13 @@
+.header{
+    background-color: aliceblue;
+    text-align: center;
+}
+.main{
+    background-color: bisque;
+    text-align: center;
+}
+
+.footer{
+   background-color: rgb(255, 207, 207);
+    text-align: center;
+}

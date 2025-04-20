@@ -1,0 +1,32 @@
+body {
+    background-color: #f0f0f0;
+    color: #333;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: left;
+  }
+
+  header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 24px;
+    font-weight: bold;
+  }
+
+  main {
+    background-color: #ffffff;
+    padding: 20px;
+  }
+
+  footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+  }
+
+  article {
+    margin-bottom: 20px;
+  }
